@@ -3,7 +3,7 @@ using namespace std;
 
 int n;
 
-void f(int x) {
+int f(int x) {
 	// 종료조건
 	if (x <= 2)
 		return 1;
