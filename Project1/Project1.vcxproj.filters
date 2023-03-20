@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="약수구하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="코드업 1703.cpp">
@@ -67,6 +67,27 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="코드업 1362.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="메모이제이션.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 2832.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 2833.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 2834%28선생님%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 2835%28선생님%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 2836.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 4439.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
