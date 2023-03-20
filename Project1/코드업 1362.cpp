@@ -8,6 +8,7 @@ int main() {
 	/*int cnt, start;
 	cnt = (n / 2) + 1;
 	start = n * cnt;*/
+	//int a;
 
 	int a = n;
 
