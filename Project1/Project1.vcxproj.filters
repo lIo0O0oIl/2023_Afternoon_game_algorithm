@@ -96,5 +96,11 @@
     <ClCompile Include="코드업 4439(선생님).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="코이스터디 2664.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코이스터디 2649.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
