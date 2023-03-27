@@ -105,5 +105,14 @@
     <ClCompile Include="코이스터디 2652.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="시간복잡도와 공간복잡도.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이진탐색과 순차탐색.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1920.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,4 +1,6 @@
 #include <iostream>
+#include <string>
+//#include <algorithm>
 using namespace std;
 
 // 코딩테스트에서 시간 줄이는 법
@@ -11,6 +13,32 @@ using namespace std;
 // 시간복잡도 - (★)빅오표기법(최악), 오메가 표기법(최상), 세타표기법(평균)이 있음
 // 최악으로 하는 이유는 어떤 상황이 와도 이정도의 시간을 보장해준다는 것임. 그래서 가장 많이 씀
 
-int main() {
+int sum(int a) {
+	int num = 0;
+	for (int i = 1; i <= a; i++)
+	{
+		num += i;
+	}
+	return num;
+}
 
+//	클래스 -> 객채
+
+int main() {
+	//int n;
+	//cin >> n;
+	//cout << sum(n) << endl;
+
+	string str;
+	clock_t start, end;
+	int n;
+	cin >> n;
+	start = clock();
+	for (int i = 0; i < n; i++) {
+		//str += "X";	// 이게 더 빠름 vector 의 push_back 개념임
+		//str = str + "X";
+	}
+	end = clock();
+	cout << end - start << endl;
+	return 0;
 }
