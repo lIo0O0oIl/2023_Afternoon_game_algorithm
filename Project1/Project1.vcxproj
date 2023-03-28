@@ -131,7 +131,7 @@
     <ClCompile Include="메모이제이션.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="백준 1920.cpp">
+    <ClCompile Include="백준 1920%28선생님%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="시간복잡도와 공간복잡도.cpp">

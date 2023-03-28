@@ -111,7 +111,7 @@
     <ClCompile Include="이진탐색과 순차탐색.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1920.cpp">
+    <ClCompile Include="백준 1920%28선생님%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
