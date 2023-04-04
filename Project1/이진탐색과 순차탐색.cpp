@@ -20,7 +20,7 @@ int main() {
 	low = 0;
 	high = 9;
 	
-	while (low < high) {	// 크로스된 경우
+	while (low <= high) {	// 크로스된 경우
 		mid = (low + high) / 2;
 		if (x == arr[mid]) {
 			cout << x << "는 " << mid << "번 index에 있습니다." << endl;
