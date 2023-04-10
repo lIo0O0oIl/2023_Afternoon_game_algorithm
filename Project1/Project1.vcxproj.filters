@@ -126,7 +126,25 @@
     <ClCompile Include="백준 10816.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="백준 10816(선생님).cpp">
+    <ClCompile Include="백준 12015.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 12015(선생님).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스 가사검색.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택과 큐.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 1402.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 3117.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 3127.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
