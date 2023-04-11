@@ -20,8 +20,7 @@ int main() {
 
 	for (int i = 0; i < num.size(); i++)
 	{
-		if (num[i] != "0") {
-			cout << num[i];
-		}
+		cout << num[i];
+		
 	}
 }
