@@ -156,7 +156,13 @@
     <ClCompile Include="코드업 3130(선생님).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="코드업 3021.cpp">
+    <ClCompile Include="코드업 3021%28선생님%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 18115%28선생님%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 13335.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
