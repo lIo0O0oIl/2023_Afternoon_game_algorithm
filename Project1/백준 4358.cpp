@@ -3,7 +3,7 @@
 #include <map>
 using namespace std;
 
-map<string, int> m;
+map<string, float> m;
 string name;
 int total;
 
@@ -14,6 +14,9 @@ int main() {
 	}
 
 	// 예제로 하면 total 은 29임
+
+	cout << fixed;
+	cout.precision(4);
 
 	for (auto& iter : m) {
 		iter.second = (iter.second / total) * 100;
